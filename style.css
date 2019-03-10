@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+.lead {
+  padding: 25px 25px;
+}
+
+.nav {
+  padding: 15px 15px;
+  font-size: 1.5em;
+}
+
